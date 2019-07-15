@@ -1,0 +1,53 @@
+[
+    {
+        "id": 0,
+        "productName": "Basketball",
+        "image": "🏀",
+        "in_stock": 200,
+        "price": "12.00",
+        "rating": 5,
+        "sale": true,
+        "description": "An inflated ball used in the game of basketball."
+    },
+    {
+        "id": 1,
+        "productName": "Soccer ball",
+        "image": "⚽",
+        "in_stock": 150,
+        "price": "14.00",
+        "rating": 4,
+        "sale": false,
+        "description": "A round, black and white ball used in the game of soccer, which is known as football in much of the world."
+    },
+    {
+        "id": 2,
+        "productName": "Table Tennis Paddle",
+        "image": "🏓",
+        "in_stock": 120,
+        "price": "30.00",
+        "rating": 4,
+        "sale": true,
+        "description": "A paddle used in the sport of table tennis."
+    },
+    {
+        "id": 3,
+        "productName": "Boxing Glove",
+        "image": "🥊",
+        "in_stock": 50,
+        "price": "43.00",
+        "rating": 5,
+        "sale": false,
+        "description": "A padded boxing glove, used in the sport of boxing. Usually red."
+    },
+    {
+        "id": 4,
+        "productName": "Football",
+        "image": "🏈",
+        "in_stock": 300,
+        "price": "22.00",
+        "rating": 4,
+        "sale": true,
+        "description": "The oval ball used in the game of American football, known as gridiron in some countries."
+    }
+    
+]
